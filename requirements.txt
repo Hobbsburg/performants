@@ -1,5 +1,5 @@
 streamlit
-streamlit_gsheets
+st_gsheets-connection
 praat-parselmouth
 pyaudio
 scipy
