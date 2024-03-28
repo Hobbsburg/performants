@@ -6,7 +6,6 @@ scipy
 IPython
 playsound 
 wave
-sys
 sounddevice
 soundfile
 numpy
