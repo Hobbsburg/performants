@@ -5,7 +5,6 @@ pyaudio
 scipy
 IPython
 playsound 
-time
 wave
 sys
 sounddevice
