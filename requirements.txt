@@ -4,8 +4,7 @@ praat-parselmouth
 pyaudio
 scipy
 IPython
-playsound
-os 
+playsound 
 time
 wave
 sys
