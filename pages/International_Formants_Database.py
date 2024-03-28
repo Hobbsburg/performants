@@ -11,7 +11,6 @@ import wave
 import sys
 import sounddevice as sd
 import soundfile as sf
-assert numpy  # avoid "imported but unused" message (W0611)
 import pandas as pd
 from datetime import date
 from streamlit_gsheets import GSheetsConnection

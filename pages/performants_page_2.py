@@ -10,7 +10,6 @@ import pyaudio
 import wave
 import sounddevice as sd
 import soundfile as sf
-assert numpy  # avoid "imported but unused" message (W0611)
 
 
 
