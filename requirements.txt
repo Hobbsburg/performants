@@ -1,0 +1,15 @@
+streamlit_gsheets==0.0.1
+praat-parselmouth
+pyaudio
+scipy
+IPython
+playsound
+os 
+time
+wave
+sys
+sounddevice
+soundfile
+numpy
+pandas
+datetime
