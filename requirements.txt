@@ -1,5 +1,5 @@
 streamlit
-streamlit_gsheets==0.0.1
+streamlit_gsheets
 praat-parselmouth
 pyaudio
 scipy
