@@ -1,7 +1,7 @@
 streamlit
 st_gsheets-connection
 praat-parselmouth
-pyaudio
+PyAudio
 scipy
 IPython
 playsound 
