@@ -20,8 +20,8 @@ st.write("This app is designed both to explore your natural formants in your nat
 
 st.subheader("All feedback and criticism is welcome. Please email your comments to me at performantsdata@gmail.com.")
  
-#st.page_link("/Users/hobbsburgdynasty/Desktop/STREAMLIT/pages/International_Formants_Database.py", label = "Page 1: The International Formant Database")
-s#t.page_link("/Users/hobbsburgdynasty/Desktop/STREAMLIT/pages/performants_page_2.py", label = "Page 2: Formants in French")
+st.page_link("/Users/hobbsburgdynasty/Desktop/STREAMLIT/pages/International_Formants_Database.py", label = "Page 1: The International Formant Database")
+st.page_link("/Users/hobbsburgdynasty/Desktop/STREAMLIT/pages/performants_page_2.py", label = "Page 2: Formants in French")
 
 #""" 
 #If you've two-step verification enabled, your regular password won't work. Instead, generate an app-specific password:#
